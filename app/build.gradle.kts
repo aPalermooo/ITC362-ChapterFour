@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.missouristate.chapter_three"
+    namespace = "com.missouristate.chapter_four"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.missouristate.chapter_three"
+        applicationId = "com.missouristate.chapter_four"
         minSdk = 34
         targetSdk = 34
         versionCode = 1

@@ -1,10 +1,10 @@
-package com.missouristate.chapter_three
+package com.missouristate.chapter_four
 
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.missouristate.chapter_three.databinding.ActivityMainBinding
+import com.missouristate.chapter_four.databinding.ActivityMainBinding
 
 private const val TAG = "MainActivity"
 
